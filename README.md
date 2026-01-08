@@ -28,6 +28,6 @@ Especializado en **Angular** y **NestJS**, enfocado en crear **sistemas web bien
 ---
 
 ### 📫 Contacto
-- GitHub: [Proyectos](https://github.com/muckystack)
+- GitHub: [Repositorios](https://github.com/muckystack?tab=repositories)
 - LinkedIn: [Conectar conmigo](https://www.linkedin.com/in/muckystack/)
 
